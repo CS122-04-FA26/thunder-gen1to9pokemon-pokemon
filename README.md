@@ -12,7 +12,9 @@ Dataset:
 Dependencies:
     pandas
     openpyxl (for reading .xlsx files)
+    matplotlib
+    seaborn
     jupyter
 
     Install with:
-        pip install pandas openpyxl jupyter
+        pip install pandas openpyxl matplotlib seaborn jupyter

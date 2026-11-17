@@ -12,4 +12,7 @@ Download
    https://www.kaggle.com/datasets/brdata/complete-pokemon-dataset-gen-iiv
 3. Click the Download button (top right)
 4. Unzip the .zip file
-5. Yay data
+5. Put these files in `data/raw/` (or upload them to `/content` in Colab):
+   - `Pokedex_Cleaned.csv`
+   - `PokeStats.csv`
+   - `Pokedex_Cleaned.xlsx`
